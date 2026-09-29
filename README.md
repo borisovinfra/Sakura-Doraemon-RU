@@ -71,7 +71,6 @@ Title ID:
 
 ![Sakura Doraemon RU — игровой процесс](screenshots/gameplay-01.png)
 
-![Sakura Doraemon RU — игровой процесс](screenshots/gameplay-02.png)
 
 ---
 
