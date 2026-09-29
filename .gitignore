@@ -1,0 +1,13 @@
+.DS_Store
+*.nsz
+*.nsp
+*.xci
+*.nca
+*.tik
+*.cert
+prod.keys
+title.keys
+keys.txt
+03_romfs_base/
+04_translation/
+06_GOLD_MASTER/
